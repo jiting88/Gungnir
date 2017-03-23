@@ -1,0 +1,10 @@
+insert into books values(NULL,'CSS权威指南（第3版）',47.00);
+insert into books values(NULL,'HTML5+CSS3从入门到精通（附光盘）',52.60);
+insert into books values(NULL,'Head First HTML与CSS（第2版）',83.70);
+insert into books values(NULL,'HTML CSS JavaScript网页制作从入门到精通',34.60);
+insert into books values(NULL,'精通CSS：高级Web标准解决方案（第2版）',39.00);
+insert into books values(NULL,'CSS+DIV网页样式与布局从入门到精通（附光盘）',58.80);
+insert into books values(NULL,'HTML5权威指南',112.30);
+insert into books values(NULL,'HTML5与CSS3基础教程（第8版）',58.50);
+insert into books values(NULL,'Web设计与前端开发秘籍：HTML CSS JavaScript jQuery 构建网站（套装共2册）',114.30);
+insert into books values(NULL,'疯狂HTML 5/CSS3/JavaScript讲义（附CD光盘）',57.40);

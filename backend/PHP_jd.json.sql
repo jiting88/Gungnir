@@ -1,0 +1,10 @@
+insert into books values(NULL,'PHP和MySQL Web开发（原书第4版）',66.50);
+insert into books values(NULL,'软件开发视频大讲堂：PHP从入门到精通（第3版 附光盘）',57.60);
+insert into books values(NULL,'跟兄弟连学PHP（附光盘）',100.30);
+insert into books values(NULL,'细说PHP（第2版）（含DVD光盘1张）',94.90);
+insert into books values(NULL,'深入PHP：面向对象、模式与实践（第3版）',48.70);
+insert into books values(NULL,'PHP开发实例大全（基础卷 附光盘）',108.80);
+insert into books values(NULL,'PHP核心技术与最佳实践',75.10);
+insert into books values(NULL,'Modern PHP（中文版）',31.20);
+insert into books values(NULL,'PHP编程（第3版）',84.20);
+insert into books values(NULL,'PHP经典实例（第3版）',108.10);

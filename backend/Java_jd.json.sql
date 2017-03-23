@@ -1,0 +1,10 @@
+insert into books values(NULL,'软件开发视频大讲堂：Java从入门到精通（第3版 附光盘）',38.00);
+insert into books values(NULL,'Java编程思想（第4版）',71.30);
+insert into books values(NULL,'疯狂Java讲义（第3版 附光盘）',74.20);
+insert into books values(NULL,'Java核心技术（卷1）：基础知识（原书第9版）',85.60);
+insert into books values(NULL,'O'Reilly：Head First Java（中文版 第2版 涵盖Java5.0）',52.00);
+insert into books values(NULL,'Effective Java中文版（第2版）',45.70);
+insert into books values(NULL,'深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）',55.20);
+insert into books values(NULL,'Java并发编程的艺术',49.60);
+insert into books values(NULL,'轻量级Java EE企业应用实战：Struts2+Spring4+Hibernate整合开发（第4版 附CD光盘）',94.00);
+insert into books values(NULL,'数据结构与算法分析：Java语言描述（第2版）',46.50);
